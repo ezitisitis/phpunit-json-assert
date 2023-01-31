@@ -1,5 +1,5 @@
 {
-    "name": "helmich/phpunit-json-assert",
+    "name": "ezitisitis/phpunit-json-assert",
     "description": "PHPUnit assertions for JSON documents",
     "license": "MIT",
     "authors": [
